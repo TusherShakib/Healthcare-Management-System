@@ -1,0 +1,3 @@
+admin,admin123,admin
+doctor,doc123,doctor
+rana123,123456,patient

@@ -1,0 +1,3 @@
+naan,34,male,cardio
+ratul,22,female,fevar
+siam,22,male,headac
