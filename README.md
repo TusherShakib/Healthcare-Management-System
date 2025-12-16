@@ -1,10 +1,10 @@
 # Healthcare-Management-System
-Description
+## Description
 A console-based Healthcare Management System developed using C programming.
 The system manages patients, appointments, billing, reports, and user authentication
 using file handling.
 
-Features
+## Features
 - User Authentication
 - Patient Management
 - Appointment Scheduling
@@ -14,7 +14,7 @@ Features
 - Modular Programming
 - Integration Testing
 
-  Project Structure
+## Project Structure
 src/ -> Main source code
 tests/ -> Unit & integration tests
 data/ -> Text files for data storage
@@ -25,3 +25,11 @@ gcc src/main.c src/auth.c src/patient.c src/appointment.c src/billing.c src/repo
 
 Run
 ./healthcare
+
+Technologies Used
+
+C Programming
+
+File Handling
+
+Modular Design
