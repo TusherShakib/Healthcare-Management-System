@@ -1,5 +1,5 @@
 # Healthcare-Management-System
-##Description
+##Description:
 A console-based Healthcare Management System developed using C programming.
 The system manages patients, appointments, billing, reports, and user authentication
 using file handling.
