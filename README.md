@@ -19,14 +19,14 @@ src/ -> Main source code
 tests/ -> Unit & integration tests
 data/ -> Text files for data storage
 
-How to Compile & Run
-Compile
-gcc src/main.c src/auth.c src/patient.c src/appointment.c src/billing.c src/report.c -o healthcare
+How to Compile & Run:-
+Compile:
+ gcc src/main.c src/auth.c src/patient.c src/appointment.c src/billing.c src/report.c -o healthcare
 
-Run
-./healthcare
+Run:
+ ./healthcare
 
-Technologies Used
+Technologies Used:
 
 C Programming
 
